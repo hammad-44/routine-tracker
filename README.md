@@ -13,7 +13,7 @@ Routine Tracker is a productivity app built with React for tracking daily routin
 - [License](#license)
 
 ## Demo
-You can see a live demo of the app hosted on Vercel [here](https://instabyhammad.vercel.app).
+You can see a live demo of the app hosted on Vercel [here](https://routine-trackers.vercel.app/).
 
 ## Features
 - Add, update, and delete tasks
